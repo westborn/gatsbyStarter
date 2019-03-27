@@ -18,7 +18,8 @@
     "gatsby-plugin-styled-components": "^3.0.7",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "styled-components": "^4.2.0"
+    "styled-components": "^4.2.0",
+    "typography-theme-fairy-gates": "^0.16.19"
   },
   "devDependencies": {
     "prettier": "^1.16.4"
